@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://karthi-r-a.github.io/csb-dch21/static/css/main.18c04fde.chunk.css",
-    "main.js": "https://karthi-r-a.github.io/csb-dch21/static/js/main.b521fb07.chunk.js",
-    "main.js.map": "https://karthi-r-a.github.io/csb-dch21/static/js/main.b521fb07.chunk.js.map",
+    "main.js": "https://karthi-r-a.github.io/csb-dch21/static/js/main.295d774e.chunk.js",
+    "main.js.map": "https://karthi-r-a.github.io/csb-dch21/static/js/main.295d774e.chunk.js.map",
     "runtime-main.js": "https://karthi-r-a.github.io/csb-dch21/static/js/runtime-main.3123f5bb.js",
     "runtime-main.js.map": "https://karthi-r-a.github.io/csb-dch21/static/js/runtime-main.3123f5bb.js.map",
     "static/js/2.9627a2e1.chunk.js": "https://karthi-r-a.github.io/csb-dch21/static/js/2.9627a2e1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3123f5bb.js",
     "static/js/2.9627a2e1.chunk.js",
     "static/css/main.18c04fde.chunk.css",
-    "static/js/main.b521fb07.chunk.js"
+    "static/js/main.295d774e.chunk.js"
   ]
 }
